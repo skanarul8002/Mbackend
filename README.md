@@ -1,4 +1,4 @@
-# Zosh Food
+# Meal-Mingle
 
 1. **User:**
     - ID (Auto-generated)
